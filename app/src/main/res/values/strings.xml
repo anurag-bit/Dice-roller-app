@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vDice</string>
+    <string name="Roll">Roll</string>
+    <string name="representation" />
+</resources>
